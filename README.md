@@ -21,7 +21,7 @@ The W3C Web Content Accessibility Guidelines 2.0 define specific contrast ratios
 - Color blindness simulation.
 - More color data (e.g., HSL, CMYK, Name, Pantone).
 - Undo/Redo
-- movable color boxes
+- Movable color boxes
 - Color suggestions based on color theory principles.
 - and more...
 
