@@ -32,7 +32,6 @@
 
 <script>
 import { Icon } from "@iconify/vue";
-import namer from 'color-namer';
 import './MainPage.css';
 import { calculateContrast } from './contrastCalculator.js';
 
@@ -66,7 +65,7 @@ export default {
       this.paletteRating = (highContrastCombinations.length + "/" + this.n * (this.n - 1)).toString();
     },
     getColorNames(color, i) {
-      let names = namer(color).ntc[0].name
+      let names = "soon";
       this.colorNames[i]=names;
       return names;
     },
