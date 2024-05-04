@@ -7,7 +7,6 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "color-namer": "^1.4.0",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
