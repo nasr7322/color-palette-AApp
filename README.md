@@ -14,6 +14,17 @@ The W3C Web Content Accessibility Guidelines 2.0 define specific contrast ratios
 - Display color names, hex codes, and RGB values for each color in the palette.
 - Copy and paste colors from the clipboard.
 
+## Future-Features
+
+- Export/Import color palette in different formats.
+- Dark mode theme.
+- Color blindness simulation.
+- More color data (e.g., HSL, CMYK, Name, Pantone).
+- Undo/Redo
+- movable color boxes
+- Color suggestions based on color theory principles.
+- and more...
+
 ## Getting Started
 
 To run the Color Palette Analyzer locally, follow these steps:
